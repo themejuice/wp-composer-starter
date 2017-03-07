@@ -1,0 +1,3 @@
+commands:
+  install:
+    - composer install

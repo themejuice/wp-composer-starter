@@ -1,0 +1,9 @@
+# Ignore WP files
+/wp-core/
+/wp-config.php
+
+# Composer
+/vendor
+
+# Other
+.DS_Store
